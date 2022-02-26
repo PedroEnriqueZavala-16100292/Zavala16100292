@@ -1,0 +1,9 @@
+table{
+    width: 100%;
+  }
+  body {
+    background: rgb(180, 218, 77);;
+  }  
+  table, th, td {
+    border: 1px solid black;
+  }
